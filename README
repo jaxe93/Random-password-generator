@@ -16,6 +16,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-<display> C:\Users\Tyler\Documents\Random-password-generator\Assets\03-javascript-homework-demo.png </display>
+![Quiz Scores] (./Assets/project1.png)
+
+GITHUB LINK TO PROJECT
 
 https://github.com/jaxe93/Random-password-generator
+
+LINK TO DEPLOYED SITE
+
